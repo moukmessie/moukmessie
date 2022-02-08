@@ -1,11 +1,13 @@
-![Bannière]
+![Bannière](https://github.com/moukmessie/moukmessie/blob/main/mybackprofil.png)
 
 <h1 align="center">Hi 👋, I'm Messie</h1>
+<p align= "center">
+  Student in web development, I am looking for new challenges to improve my skills on different technologies including Backend and Frontend frameworks.
+  <br>✨<i> <b>important</b> Smiling is important, it’s the key to my succùessful days </i>✨ 
+</p>
 
 
-✨ ***!important*** *Smiling is important, it’s the key to my succùessful days* ✨ 
-
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,11 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
 
+[:globe_with_meridians:](https://moukimou-website.herokuapp.com/)  [:camera:](https://moukimou-website.herokuapp.com/) 
 
-<p align= "center">
-  Étudiant en développement web, je suis en quête de nouveaux défis afin d'améliorer mes compétences sur différentes technologies notamment les framework Backend et frontend.
-  
-  
-</p>
