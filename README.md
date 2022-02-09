@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Messie</h1>
 <p align= "center">
   Student in web development, I am looking for new challenges to improve my skills on different technologies including Backend and Frontend frameworks.
-  <br>✨<i> <b style="color:red">!important:</b> Smiling is important, it’s the key to my succùessful days </i>✨ 
+  <br>✨<i> <b style="color:red">!important:</b> Smiling is important, it’s the key to my successful days </i>✨ 
 </p>
 
 
