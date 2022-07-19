@@ -1,5 +1,7 @@
 ![Bannière](https://github.com/moukmessie/moukmessie/blob/main/mybackprofil.png)
 
+<a href="https://app.daily.dev/mgmessie"><img src="https://github.com/moukmessie/moukmessie/blob/main/devcard.svg" width="400" alt="MG Messie's Dev Card"/></a>
+
 <h1 align="center">Hi 👋, I'm Messie</h1>
 <p align= "center">
  A passionate self-taught web developer, I am looking for new challenges to improve my skills on different technologies including Backend and Frontend frameworks.
