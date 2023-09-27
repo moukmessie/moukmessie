@@ -7,10 +7,7 @@
 <!--a  align="center" href="https://app.daily.dev/mgmessie"><img src="https://github.com/moukmessie/moukmessie/blob/main/devcard.svg" width="400" alt="MG Messie's Dev Card"/></a-->
 <a  align="center" href="https://app.daily.dev/Messie"><img src="https://github.com/moukmessie/moukmessie/blob/main/devcard.svg" width="400" alt="MG Messie's Dev Card"/></a>
 <!--a href="https://app.daily.dev/Messie"><img src="https://api.daily.dev/devcards/7e17c3d717fe48eca7f17714b718e5bc.png?r=dbi" width="400" alt="MG messie's Dev Card"/></a-->
-<p align= "center">
- A passionate self-taught web developer, I am looking for new challenges to improve my skills on different technologies including Backend and Frontend frameworks.
-  <br>✨<i> <b style="color:red">!important:</b> Smiling is important, it’s the key to my successful days </i>✨ 
-</p>
+
 
 
 
